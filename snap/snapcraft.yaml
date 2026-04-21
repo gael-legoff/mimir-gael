@@ -1,5 +1,5 @@
 name: mimir-gael
-version: "v3.0.5"
+version: "v3.0.6"
 base: core24
 summary: Mimir
 description: |
@@ -42,5 +42,5 @@ parts:
 
   grafana:
     plugin: dump
-    source: https://github.com/grafana/mimir/releases/download/mimir-3.0.5/mimir-3.0.5_amd64.deb
+    source: https://github.com/grafana/mimir/releases/download/mimir-3.0.6/mimir-3.0.6_amd64.deb
     source-type: deb
